@@ -133,10 +133,20 @@ html, body {
   margin-right: auto;
 }
 /*Portfolio styling*/
-.th-image {
+.th-image0 {
   margin-left:10%;
   width: 25em;
+  margin-top: 3em;
 }
+
+#banner-mage {
+  margin-left:5%;
+  width: 25em;
+  height: 35em;
+  margin-top: 3em;
+  margin-bottom: 5em;
+}
+
 
 /* styling for the contact page (the form)*/
 body {
