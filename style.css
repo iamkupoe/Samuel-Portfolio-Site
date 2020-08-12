@@ -83,7 +83,7 @@ html, body {
 #banner-image {
   width: 100%;
   opacity: 0.8;
-  height: 50em;
+  height: 35em;
   opacity: 0.9;
 }
 
@@ -309,7 +309,7 @@ a:link {
 
 .text {
   margin-right: 5px;
-  margin-left: 5px;
+  margin-left: 2px;
   margin-top: 20px;
   text-align: justify;
   margin-bottom: 1em;
