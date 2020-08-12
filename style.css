@@ -97,6 +97,13 @@ html, body {
 #name {
   font-size: 2.5em;
   margin-left: 0;
+  color: #050505;
+  margin-top: 2em;
+}
+
+#nam {
+  color: #041df8;
+  margin-top: 1.5em;
 }
 
 /*Skill set*/
