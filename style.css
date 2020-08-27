@@ -381,10 +381,22 @@ a:link {
  
 }
 
+#hire {
+  color: #fff;
+}
+
+#connect {
+  color: blue;
+}
+
+#twit {
+  color: blue;
+}
+
 a:link {
   text-decoration: none;
   cursor: pointer;
-  color: #fff;
+  color: rgb(238, 6, 26);
 }
 
 /*FOOTER*/
