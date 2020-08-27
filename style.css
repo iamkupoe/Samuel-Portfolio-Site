@@ -372,19 +372,19 @@ a:link {
 /* styling for the link button in the about page*/
 
 .link {
-  background-color: aqua;
-  color: #fff;
-  width: 120px;
-  height: 40px;
+  background: rgb(26, 163, 209) !important;
+  width: 90px;
+  height: 30px;
   font-size: 18px;
   border-radius: 5px;
   box-sizing: border-box;
-  text-transform: capitalize;
+ 
 }
 
 a:link {
   text-decoration: none;
   cursor: pointer;
+  color: #fff;
 }
 
 /*FOOTER*/
