@@ -119,9 +119,13 @@ html, body {
 }
 #skill-heading {
   margin-top: 50px;
-  margin-left: 38%;
+  margin-left: 40%;
   margin-bottom: 0;
   padding-bottom: 0;
+}
+
+#horizon {
+  background: black;
 }
 
 #port-heading {
@@ -353,27 +357,31 @@ a:link {
   margin-top: 20px;
   margin-left: 20px;
   color: black;
-  text-align: left;
+  text-align: center;
   font-size: 2em;
 }
 
 #paragraph-text {
-  font-size: 15px;
-  text-align: justify;
+  font-size: 1.5rem;
+  margin: auto;
+  width: 95%;
+  border: 3px;
+  padding: 10px;
 }
-/*
-.txt {
-  margin-left: 300px;
-  text-align: ;
-  margin-right: 200px;
+
+#text {
+  margin: auto;
+  width: 95%;
+  border: 3px;
+  padding: 10px;
 }
-*/
 
 /* styling for the link button in the about page*/
 
 .link {
   background: rgb(26, 163, 209) !important;
   width: 90px;
+  margin-left: 2.5rem;
   height: 30px;
   font-size: 18px;
   border-radius: 5px;
