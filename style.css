@@ -125,7 +125,8 @@ html, body {
 }
 
 #horizon {
-  background: black;
+  width: 100%;
+  border: 1px solid gray;
 }
 
 #port-heading {
@@ -294,11 +295,6 @@ button .social {
   text-align: center;
 }
 
-hr {
-  width: 50%;
-  align-self: center;
-  margin-left: 300px;
-}
 
 .link {
   background-color: aqua;
