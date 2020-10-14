@@ -145,16 +145,68 @@ html, body {
   margin-right: auto;
 }
 /*Portfolio styling*/
+.edit-image {
+  height: 22em;
+}
+
 .th-image0 {
   margin-left:10%;
   width: 25em;
-  margin-top: 3em;
+  margin-top: 1em;
+  height: 35em;
 }
 
-#banner-mage {
-  margin-left:5%;
+.port-png {
   width: 25em;
-  height: 35em;
+  margin-left: 5%;
+  margin-top: 2em;
+  height: 22em;
+}
+
+.my-site {
+  margin-left: 10%;
+  width: 25em;
+  margin-top: 2em;
+}
+
+#site {
+  margin-left: 30%;
+  cursor: pointer;
+  color: #4c1ad4;
+  font-family: 'Chilanka', cursive;
+}
+
+#contacts {
+  margin-top: 54%;
+  margin-left: -50%;
+  cursor: pointer;
+  color: #4c1ad4;
+  font-family: 'Chilanka', cursive;
+}
+
+.vees-oven {
+  width: 25em;
+  margin-left: 5%;
+  margin-top: 1em;
+  height: 30em;
+}
+
+#vees {
+  margin-top: 60vh;
+  margin-left: -50%;
+  cursor: pointer;
+  color: #1d1ad4;
+  font-family: 'Chilanka', cursive;
+}
+
+#kasena {
+  margin-left: 30%;
+  margin-bottom: -1em;
+}
+
+#image {
+  width: 25em;
+  height: 20em;
   margin-top: 3em;
   margin-bottom: 5em;
 }
